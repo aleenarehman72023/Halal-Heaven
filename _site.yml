@@ -1,0 +1,14 @@
+name: "."
+title: "Halal Heaven"
+description: |
+  Halal Heaven
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Products"
+      href: Products.html
+output: distill::distill_article
