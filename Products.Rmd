@@ -10,8 +10,33 @@ output: distill::distill_article
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![Drinks](Images/drinks.jpeg){width=30%}
-drinks
+![gummy pizza £4.99](Images/gummy pizza.jpg){width=35%}
 
+
+![gummy fries £3.99](Images/gummy fries.jpg){width=30%}
+
+![gummy bears £2.99](Images/gummy bears.jpg){width=35%}
+
+
+![gummy noodles £5.99](Images/gummy n.jpg){width=35%}
+
+![gummy strawberrys £4.99](Images/strawberrys.jpg){width=35%}
+
+
+![strawberry puffs £5.99](Images/strawberry puffs.jpg){width=35%}
+
+
+![refreshers £5.99](Images/refreshers.jpg){width=35%}
+
+
+![strawberry chewits £5.99](Images/strawbery chewits.jpg){width=35%}
+
+
+![Nerds £5.99](Images/nerds.jpg){width=35%}
+
+
+![jaw breakers £5.99](Images/jaw breakers.jpg){width=35%}
+
+freeze dried candy
 
 
