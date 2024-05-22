@@ -18,7 +18,7 @@ site: distill::distill_website
  
 ## Introduction
 
-Welcome to halal heaven, on this website you can purchase any halal candy that you would like, and any halal drinks you would like all different sizes and all different flavors.
+Welcome to halal heaven, on this website you can purchase any halal candy that you would like, in all different sizes and all different flavors.
 
 
 
