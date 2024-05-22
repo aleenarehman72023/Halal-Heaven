@@ -5,24 +5,23 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2024-03-15T12:10:21+00:00"
+      "contents": "\nWelcome to Halal Heaven, your premier destination for Halal sweets!\nAt Halal Heaven, we believe that everyone deserves a taste of sweetness without compromising their dietary beliefs. That’s why we’ve dedicated ourselves to providing a delightful variety of Halal-certified sweets that cater to your needs.\nOur Commitment to Quality Our sweets are sourced from the finest ingredients, ensuring that each treat is not only permissible under Halal dietary laws but also meets our high standards for quality and taste. From classic jelly sweets to fizzy delights, our selection is vast and varied, perfect for any occasion.\nA Sweet for Every Occasion Whether you’re looking to indulge in a personal treat or searching for the perfect sweet gift, we have something for everyone.\n\n\n\n",
+      "last_modified": "2024-05-22T10:45:38+00:00"
     },
     {
       "path": "index.html",
       "title": "Halal Heaven",
       "author": [],
       "contents": "\n\n          \n          \n          Halal Heaven\n          \n          \n          Home\n          About\n          Products\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Halal Heaven\n            \n            \n              \n                \n                    \n                      \n                        LinkedIn\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Twitter\n                      \n                    \n                  \n                                    \n                    \n                      \n                        GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Email\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            Introduction\n            Welcome to halal heaven, on this website you can purchase\n            any halal candy that you would like, and any halal drinks\n            you would like all different sizes and all different\n            flavors.\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Halal Heaven\n            \n            \n              \n                \n                                    \n                    \n                      LinkedIn\n                    \n                  \n                                    \n                    \n                      Twitter\n                    \n                  \n                                    \n                    \n                      GitHub\n                    \n                  \n                                    \n                    \n                      Email\n                    \n                  \n                                  \n              \n            \n            \n              \n              Introduction\n              Welcome to halal heaven, on this website you can\n              purchase any halal candy that you would like, and any\n              halal drinks you would like all different sizes and all\n              different flavors.\n              \n            \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2024-03-22T12:05:49+00:00"
+      "last_modified": "2024-05-22T10:45:39+00:00"
     },
     {
       "path": "Products.html",
       "title": "Products",
-      "description": "A new article created using the Distill format.\n",
       "author": [],
       "date": "`r Sys.Date()`",
-      "contents": "\ngummy pizza £4.99gummy fries £3.99gummy bears £2.99gummy noodles £5.99gummy strawberrys £4.99strawberry puffs £5.99refreshers £5.99strawberry chewits £5.99Nerds £5.99jaw breakers £5.99freeze dried candy\n\n\n\n",
-      "last_modified": "2024-05-01T10:39:46+00:00"
+      "contents": "\ngummy pizza £4.99gummy fries £3.99gummy bears £5`.99gummy noodles £4.99gummy strawberrys £5.99strawberry puffs £5.99refreshers £14.99strawberry chewits £14.99Nerds £30.00jaw breakers £5.99\n\n\n",
+      "last_modified": "2024-05-22T10:45:40+00:00"
     }
   ],
   "collections": []

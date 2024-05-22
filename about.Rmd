@@ -8,3 +8,10 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+ Welcome to Halal Heaven, your premier destination for Halal sweets!
+
+At Halal Heaven, we believe that everyone deserves a taste of sweetness without compromising their dietary beliefs. That’s why we’ve dedicated ourselves to providing a delightful variety of Halal-certified sweets that cater to your needs.
+
+Our Commitment to Quality Our sweets are sourced from the finest ingredients, ensuring that each treat is not only permissible under Halal dietary laws but also meets our high standards for quality and taste. From classic jelly sweets to fizzy delights, our selection is vast and varied, perfect for any occasion.
+
+A Sweet for Every Occasion Whether you’re looking to indulge in a personal treat or searching for the perfect sweet gift, we have something for everyone.

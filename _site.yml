@@ -3,6 +3,7 @@ title: "Halal Heaven"
 description: |
   Halal Heaven
 output_dir: "docs"
+theme: my-theme.css
 navbar:
   right:
     - text: "Home"
@@ -13,9 +14,3 @@ navbar:
       href: Products.html
       
 output: distill::distill_article
-- label: '<i class="fa-brands fa-snapchat fa-bounce"></i>snapchat'
-    url: 'https://snapchat.com/R_Girls_School target="_blank"'
-  - label: '<i class="fab fa-github"></i> GitHub'
-    url: 'https://github.com/R-Girls target="_blank"'
-  - label: '<i class="fas fa-envelope"></i> Contact Us'
-    url: "mailto:maryam.nawaz@greenoak.bham.sch.uk"
